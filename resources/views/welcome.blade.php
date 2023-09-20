@@ -31,6 +31,8 @@
 
 <body class="antialiased">
 
+    @livewire('list-products')
+
     @filamentScripts
 </body>
 
